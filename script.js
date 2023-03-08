@@ -1,7 +1,7 @@
 const countdownElement = document.getElementById("days");
 
 // Set the countdown end time (March 13th, 2023)
-const countdownEndTime = Date.parse("2023-03-13T12:00:00Z");
+const countdownEndTime = Date.parse("2023-03-14T12:00:00Z");
 
 // Update the countdown every second
 const countdownInterval = setInterval(() => {
